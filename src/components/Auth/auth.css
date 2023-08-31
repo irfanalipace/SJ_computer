@@ -1,0 +1,7 @@
+.login-lindev{
+    display: flex;
+    justify-content: space-between;
+}
+.login-lindev .link-data{
+margin-top: 24px;
+}
